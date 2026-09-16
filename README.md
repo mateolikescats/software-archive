@@ -1,6 +1,6 @@
 # Software Archive
 
-A collection of foundational programming projects and algorithmic implementations.
+A collection of foundational programming exercises and algorithmic implementations. (2019)
 
 ## Tech Stack
 - **Languages:** C++
