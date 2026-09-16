@@ -1,23 +1,18 @@
 # Software Archive
 
-A collection of foundational programming projects and automation scripts.
+A collection of foundational programming projects and algorithmic implementations.
 
-## 🛠️ Tech Stack
-- **Languages:** C++, JavaScript.
-- **Environments:** Dev-C++, Browser Environment (UserScripts).
+## Tech Stack
+- **Languages:** C++
+- **Environments:** Dev-C++
 - **Paradigm:** Object-Oriented Programming (OOP), Algorithmic Logic.
 
-## 🚀 Key Projects
+## Key Projects
 
-### 1. Algorithmic Suite (C++)
-Implementation of fundamental computer science algorithms.
-- **Focus:** Logic structures, data processing, and access control systems.
-- **Key Implementations:** Factorial calculations, area optimization, and system access logic.
+### 1. Algorithmic Suite (`CPP_Algorithms/`)
+Implementation of fundamental computer science algorithms and logic.
+- **Focus:** Data structures, control flow, and system logic.
+- **Key Implementations:** Factorial calculations, area optimization, and system access control.
 
-### 2. Google Forms Quiz Solver (JS)
-Custom UserScript for automating interactions with Google Forms.
-- **Focus:** DOM Manipulation and browser automation.
-- **Outcome:** Improved efficiency in quiz interaction and data handling.
-
-## 📈 Workflow
-`Problem Analysis` $\rightarrow$ `Pseudocode/Logic Design` $\rightarrow$ `Implementation` $\rightarrow$ `Testing/Debugging`
+## Workflow
+`Problem Analysis` $\rightarrow$ `Pseudocode Design` $\rightarrow$ `Implementation` $\rightarrow$ `Testing/Debugging`
